@@ -1,27 +1,33 @@
-# Codes und Analysen: Einsatz und Nutzen theorie-spezifischer Interventionen und allgemeiner Wirkfaktoren in Psychologischer Therapie 
- 
+# Einsatz und Nutzen theorie-spezifischer Interventionen und allgemeiner Wirkfaktoren in Psychologischer Therapie
+
+**Codes und Analysen**
+
+21.07.2022
+
 
 Joke Lembeck
+ 
+Masterarbeit betreut durch Prof. em. Dr. phil. Franz Caspar
 
 Universität Bern
 
-21.07.2022
+
 # 0. Setup
 
-## Set working directory
+## 0.1 Set working directory
 
 ``` r
 knitr::opts_chunk$set(warning = FALSE, message = FALSE)
     knitr::opts_knit$set(root.dir = normalizePath("../data")) 
 ```
 
-## Packages
+## 0.2 Packages
 
 ``` r
 pacman::p_load(psych, lme4, nlme, tidyverse, lmerTest, gridExtra, ggplot2,patidyverse,tidyr, nlme, lmerTest, ggplot2, ggthemes, dplyr, rio, na.omit, performance, olsrr, tidyr, psych, dplyr,rowSum ,scapeMCMC, MCMCglmm, agridat, mlmRev, car, jtools, ggridges, DescTools, stringr, scater, gridExtra, cowplot, writexl, dplyr, tidyverse, foreign, irr, magrittr, plyr)
 ```
 
-## Data
+## 0.3 Data
 
 ``` r
 # Load data
@@ -43,7 +49,7 @@ df2 <- data_fragestellung2 %>%
 
 # 1. Datenbeschreibung
 
-## Deskriptive Analysen
+## 1.1 Deskriptive Analysen
 
 ``` r
 describe(df2)
