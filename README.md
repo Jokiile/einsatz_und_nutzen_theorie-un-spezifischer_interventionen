@@ -17,7 +17,7 @@ Klinische Psychologie und Psychotherapie, Universität Bern, Schweiz
 
 # Dateien
 
-Folgende Dateien sind in dieser Repository zu finden
+Folgende Dateien sind in dieser Repository zu finden:
 
 ```
 Code_und_Analysen_Masterarbeit_Joke_Lembeck.html
@@ -29,7 +29,7 @@ Spss_Code_Masterarbeit_Joke_Lembeck.sps
 
 ## Code_und_Analysen_Masterarbeit_Joke_Lembeck.html
 Beinhaltet sämtliche R-Codes und die darauf aufbauenden Analysen und Ergebnisse.
-Zur ordentlichen Darstellung sollte diese datei heruntergeladen und im Browser geöffnet werden.
+Zur ordentlichen Darstellung sollte diese Datei heruntergeladen und im Browser geöffnet werden.
 
 ## R_Code_Masterarbeit_Joke_Lembeck.Rmd
 Beinhaltet die verwendeten R-Codes. 
