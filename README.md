@@ -4,12 +4,15 @@
 
 21.07.2022
 
-
-Joke Lembeck
+**Joke Lembeck**
  
-Masterarbeit betreut durch Prof. em. Dr. phil. Franz Caspar
+Masterarbeit 
 
-Universität Bern
+Betreut durch **Prof. em. Dr. phil. Franz Caspar**
+
+In Zusammenarbeit mit **M. Sc. Gwendolyn Wälchli**
+
+Klinische Psychologie und Psychotherapie, Universität Bern, Schweiz
 
 
 # 0. Setup
