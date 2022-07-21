@@ -2,7 +2,7 @@
 
 ## Master thesis: Codes and analyses
 
-**Joke Lembeck 
+**Joke Lembeck**
 
 21.07.2022
 
